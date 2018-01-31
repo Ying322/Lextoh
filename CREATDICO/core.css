@@ -1,0 +1,41 @@
+td{  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	line-height: 1.4em;
+	}
+
+body {  
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px;
+	}
+	
+H3{  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 16px;
+	}	
+
+.link {
+		font-size: 10px; text-decoration: none;
+	  line-height: 1em;
+}
+
+A:active {
+		color: #cc4422
+}
+
+A:link {
+		color: #cc4422
+}
+
+A:visited { 
+		color: #cc4422
+}
+
+A:hover {
+		color: #000000
+}
+	
+
+	

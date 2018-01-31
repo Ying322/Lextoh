@@ -1,0 +1,40 @@
+body {
+	 margin:0px; padding:px; 
+	 background:url(images/tall.jpg) repeat center center transparent; font-family:arial;
+}
+
+
+
+#entete {
+	width:100%; /*background:white;*/ text-align:center;
+}
+
+#corps {
+	margin:0px auto; width:80%;
+}
+
+#signature {
+	position:fixed; bottom:0; background-color:rgba(225,225,225,0.8);
+	width:100%;text-align:center;font-size:80%; font-style:italic;
+}
+
+form {
+	background-color:rgba(25,25,25,0.2); padding: 2%;
+}
+fieldset {
+	background-color:rgba(255,255,255,0.8); padding: 2%;
+	border:inset 1px; border-radius: 10px; text-align:center;
+}
+legend {
+	background-color:rgb(255,255,255); padding: 0.5%;
+	border:inset 1px; border-radius: 10px; 
+}
+
+
+
+.description {
+	color:white; margin-left:20px;
+}
+
+
+

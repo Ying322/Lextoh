@@ -1,0 +1,2 @@
+pivax	"http://getalp.imag.fr/pivax/api/$dico/$langueSource/link/$lemm"	"http://getalp.imag.fr/pivax/api/"
+papillon	"http://www.papillon-dictionary.org/papillon/api/$dico/$langueSource/cdm-headword/$lemm/cdm-translation?strategy=EQUAL"	"http://www.papillon-dictionary.org/papillon/api/"

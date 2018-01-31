@@ -1,0 +1,4 @@
+pivax	"http://getalp.imag.fr/pivax/api/$dico/$langueSource/link/$lemm"	"http://getalp.imag.fr/pivax/api/"	"http://getalp.imag.fr/pivax/api/$dico/$lang/cdm-headword/$lemm/cdm-pos?strategy=EQUAL"
+papillon	"http://www.papillon-dictionary.org/papillon/api/$dico/$langueSource/cdm-headword/$lemm/cdm-translation?strategy=EQUAL"	"http://www.papillon-dictionary.org/papillon/api/"	"http://www.papillon-dictionary.org/papillon/api/$dico/$lang/cdm-headword/$lemm?strategy=EQUAL"
+iate	"http://iate.europa.eu/SearchByQuery.do?method=search&query=$lemm&sourceLanguage=$langueSource&targetLanguages=s&domain=0"	""	"http://iate.europa.eu/FindTermsByLilId.do?lilId=$id&langId=$lang"
+wiktionary	"https://glosbe.com/gapi/translate?from=$langueSource&dest=$langueCible&format=json&phrase=$lemm&pretty=true"	""	""
